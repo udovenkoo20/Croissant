@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background-color: rgb(255, 248, 201);
+}
+.link {
+  padding: 15px;
+  font-size: 18px;
+  color: rgb(78, 77, 77);
+}
+.activelink {
+  padding: 15px;
+  font-size: 18px;
+  color: rgb(78, 77, 77);
+  text-decoration: none;
+}
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+
+.img {
+  padding: 20px;
+  border-radius: 30px;
+}
